@@ -1,6 +1,6 @@
 const Discord = require ('discord.js');
 const bot = new Discord.Client();
-const token = 'ODQxNzUxMDcwMjg3MDY5MTg0.YJrTxg.r0FXSJoPqt5BanIkWOjGMArXAnU';
+const token = 'Your token';
 const ytdl = require ('ytdl-core');
 const servidores = {'server':{
     connection: null,
